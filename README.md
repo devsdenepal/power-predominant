@@ -1,3 +1,4 @@
+![LOGO](https://github.com/devsdenepal/power-predominant/raw/main/resources/images/logo.png)
 ![SCREENSHOT](https://github.com/devsdenepal/power-predominant/raw/main/screenshots/trojan-detected.png)
 # DISCLAIMER
 THIS PROGRAMME IS INTENDED FOR COMMANDING/TESTING MANY COMPUTER(S) AT ONE TIME AND IS UNDER-DEVELOPMENT, USING THIS PROGRAMME MAY HARM YOUR SYSTEM.
