@@ -8,5 +8,11 @@ DO NOT VIOLATE FEDERAL CYBER RULES , THIS MAY PERFORM AS A TROJAN POWERSPLOIT.
 ## Power-Predominant
 > A simple PowerShell program to execute commands solely from server to every target computer. [For educational use only]
 ## How?
-> The program uses PowerShell script to fetch commands from server URL at every 5000 miliseconds and injects into the target powershell execution.
+> The program uses PowerShell script to fetch commands from server URL  and injects into the target powershell execution.
 (c) Dev. Gautam Kumar
+## Build
+- ``` python3 power-predom.py <serverURL>```
+- *Output file:* ``Power-Predom.exe``
+## Command directing
+- Touch `command.html` in <serverURL>
+- Edit `command.html` according to the command you want to execute
