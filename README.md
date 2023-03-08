@@ -14,5 +14,5 @@ DO NOT VIOLATE FEDERAL CYBER RULES , THIS MAY PERFORM AS A TROJAN POWERSPLOIT.
 - ``` python3 power-predom.py <serverURL>```
 - *Output file:* ``Power-Predom.exe``
 ## Command directing
-- Touch `command.html` in <serverURL>
+- Touch `command.html` in `<serverURL>`
 - Edit `command.html` according to the command you want to execute
